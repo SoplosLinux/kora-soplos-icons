@@ -30,7 +30,11 @@ The previews show a sample of the apps, folders, devices and file types. They ar
 - Symbolic icons that follow the color scheme of the desktop.
 - Works with GNOME, KDE Plasma, Xfce and any desktop that follows the freedesktop icon theme specification.
 
-## New in version 1.0.0-1
+## New in version 1.0.0-2
+
+- Package revision 2 of 1.0.0: the Debian package is rebuilt from the current state of the themes.
+
+## New in version 1.0.0
 
 - First release of the Soplos variants of Kora.
 - Accent color changed from Kora blue to Soplos orange (`#ff7d2e`); secondary colors taken from the Soplos web palette.

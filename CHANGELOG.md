@@ -2,7 +2,13 @@
 
 All notable changes to Kora Soplos Icons are documented in this file.
 
-## [1.0.0-1] - 2026-10-25
+## [1.0.0-2] - 2026-10-25
+
+### Changed
+
+- Package revision 2 of 1.0.0: the Debian package is rebuilt from the current state of the themes, with the version read from `DEBIAN/control` by the build script. The first release is `1.0.0`, without a revision.
+
+## [1.0.0] - 2026-10-25
 
 ### Added
 
@@ -11,7 +17,7 @@ All notable changes to Kora Soplos Icons are documented in this file.
 - Soplos logo: `distributor-logo-soplos` and `start-here-soplos` in apps and `distributor-logo-soplos` in places. The generic `distributor-logo` now shows the Soplos logo too, so every place that asks for the distribution logo gets it.
 - Soplos icon for Ghostty (`com.mitchellh.ghostty`, with `ghostty` as a link to it): the ghost with the orange and black outline of the Soplos terminal. Kora's own Ghostty icon, a blue tile, was replaced. The new one was redrawn as an SVG from the original PNG, measuring the strokes and the curves of the ghost, so it scales without losing quality.
 - Icons that Kora did not have: `file-manager-orange`, `proton-mail`, `torzu` and `vita3k`.
-- Debian package `kora-soplos-icons` 1.0.0-1, architecture `all`, so the same `.deb` installs on Boro, Tyson and Tyron. It installs both themes in `/usr/share/icons`, depends on `hicolor-icon-theme` and recommends `breeze-icon-theme`, the theme they inherit from. The icon caches are not shipped: `postinst` generates them with `gtk-update-icon-cache` and `postrm` removes them, as a file created at install time cannot belong to the package. The packaging files are in `kora-soplos-icons/` and the build script, `kora-soplos-icons.sh`, is not part of the repository.
+- Debian package `kora-soplos-icons` 1.0.0, architecture `all`, so the same `.deb` installs on Boro, Tyson and Tyron. It installs both themes in `/usr/share/icons`, depends on `hicolor-icon-theme` and recommends `breeze-icon-theme`, the theme they inherit from. The icon caches are not shipped: `postinst` generates them with `gtk-update-icon-cache` and `postrm` removes them, as a file created at install time cannot belong to the package. The packaging files are in `kora-soplos-icons/` and the build script, `kora-soplos-icons.sh`, is not part of the repository.
 - README with preview screenshots of both themes (`screenshots/`), `AUTHORS` and `LICENSE` (GPL-3, the license of Kora). `CHANGELOG.md` and `README.md` are installed in `/usr/share/doc/kora-soplos-icons/`.
 
 ### Changed
