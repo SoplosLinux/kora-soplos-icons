@@ -6,6 +6,7 @@ All notable changes to Kora Soplos Icons are documented in this file.
 
 ### Added
 
+- README: version, license, platform, format and package badges, as in the other Soplos projects.
 - README: installation instructions for the `.deb` package, which is published in the Releases of the repository. It explains how to download it, how to install it with `apt` on any Debian based distribution, how to select the theme in Plasma, GNOME and Xfce, and how to remove it.
 
 ### Changed

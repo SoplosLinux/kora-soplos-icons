@@ -1,5 +1,11 @@
 # Kora Soplos Icons
 
+![Version](https://img.shields.io/badge/version-1.0.0--3-blue)
+![License](https://img.shields.io/badge/license-GPL--3.0-green)
+![Platform](https://img.shields.io/badge/platform-Linux-lightgrey)
+![Format](https://img.shields.io/badge/icons-SVG-orange)
+![Package](https://img.shields.io/badge/package-.deb-red)
+
 Icon themes for Soplos Linux, derived from the Kora icon theme and recolored with the official Soplos palette.
 
 Two variants are provided:
@@ -32,6 +38,7 @@ The previews show a sample of the apps, folders, devices and file types. They ar
 
 ## New in version 1.0.0-3
 
+- Version, license, platform, format and package badges.
 - Installation instructions for the `.deb` package of the Releases, on any Debian based distribution.
 - The session and power icons have a new circle, charcoal in the dark theme and light gray in the light theme, so the orange symbol is clearly visible at panel size.
 
