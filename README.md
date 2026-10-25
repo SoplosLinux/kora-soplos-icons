@@ -49,8 +49,8 @@ The themes are meant to be installed in `/usr/share/icons`, one directory per th
 ## Credits
 
 - **Kora** icon theme - the base of every icon in these themes. All the credit for the original artwork goes to the Kora project and its contributors: https://github.com/bikass/kora
-- **Sergi Perich** - Soplos modifications: recoloring, light variant, Soplos and Ghostty icons, packaging.
 - **Simnandez** - drove and promoted the project.
+- **Sergi Perich** - Soplos modifications: recoloring, light variant, Soplos and Ghostty icons, packaging.
 
 ## License
 
