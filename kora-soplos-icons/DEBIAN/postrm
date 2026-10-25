@@ -1,0 +1,12 @@
+#!/bin/bash
+set -e
+
+# The icon caches are generated in postinst, so they are not owned by the package
+if [ "$1" = "remove" ] || [ "$1" = "purge" ]; then
+    for theme in kora-soplos-dark kora-soplos-light; do
+        rm -f "/usr/share/icons/$theme/icon-theme.cache"
+        rmdir --ignore-fail-on-non-empty "/usr/share/icons/$theme" 2> /dev/null || true
+    done
+fi
+
+exit 0

@@ -1,0 +1,12 @@
+#!/bin/bash
+set -e
+
+if [ "$1" = "configure" ]; then
+    if command -v gtk-update-icon-cache > /dev/null 2>&1; then
+        for theme in kora-soplos-dark kora-soplos-light; do
+            gtk-update-icon-cache -f -q "/usr/share/icons/$theme" || true
+        done
+    fi
+fi
+
+exit 0

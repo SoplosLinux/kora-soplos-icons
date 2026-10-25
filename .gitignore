@@ -1,0 +1,8 @@
+# Packaging script
+kora-soplos-icons.sh
+
+# Build output and temporary copies made by the packaging script
+*.deb
+kora-soplos-icons/usr/share/icons/
+kora-soplos-icons/usr/share/doc/kora-soplos-icons/README.md.gz
+kora-soplos-icons/usr/share/doc/kora-soplos-icons/changelog.gz

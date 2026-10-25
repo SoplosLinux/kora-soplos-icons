@@ -1,0 +1,17 @@
+Package: kora-soplos-icons
+Version: 1.0.0-1
+Section: x11
+Priority: optional
+Architecture: all
+Depends: hicolor-icon-theme
+Recommends: breeze-icon-theme
+Maintainer: Sergi Perich <info@soploslinux.com>
+Homepage: https://github.com/SoplosLinux/kora-soplos-icons
+Description: Kora Soplos icon themes (dark and light) for Soplos Linux.
+ Icon themes for Soplos Linux based on the Kora icon theme and recolored
+ with the official Soplos palette. Two variants are installed in
+ /usr/share/icons: Kora Soplos Dark and Kora Soplos Light.
+ .
+ Based on Kora (https://github.com/bikass/kora). Soplos modifications by
+ Sergi Perich and Simnandez.
+ Build date: 2026-10-25
