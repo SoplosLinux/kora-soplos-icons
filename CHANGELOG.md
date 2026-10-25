@@ -5,9 +5,11 @@ All notable changes to Kora Soplos Icons are documented in this file.
 ## [1.0.0-4] - not yet published
 
 ### Added
+
 - Icon `control-centre` panel icon
 
 ### Changed
+
 - Changed icon `utilities-system-monitor` from green to orange soplos
 
 ## [1.0.0-3] - 2026-10-25
