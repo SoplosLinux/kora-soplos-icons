@@ -4,8 +4,8 @@
   <stop stop-color="#474747" offset="1"/>
  </linearGradient>
  <linearGradient id="b" x2="1" gradientTransform="matrix(0 -31.5475 31.5475 0 501.009 33.8791)" gradientUnits="userSpaceOnUse">
-  <stop stop-color="#0084b6" offset="0"/>
-  <stop stop-color="#02eeff" offset="1"/>
+  <stop stop-color="#b64b00" offset="0"/>
+  <stop stop-color="#ff6a02" offset="1"/>
  </linearGradient>
  <path transform="matrix(.75 0 0 .75 0 5.32088)" d="m24.462 40.093h15.076v7.9h-15.076z" fill="url(#a)" fill-rule="nonzero"/>
  <path transform="matrix(1 0 0 1.13354 -.019583 -8.62106)" d="m35.789 43.478c0-.574-.528-1.039-1.178-1.039h-21.184c-.65 0-1.178.465-1.178 1.039v1.151c0 .573.528 1.039 1.178 1.039h21.184c.65 0 1.178-.466 1.178-1.039z" fill="#a4a4a4"/>

@@ -5,8 +5,8 @@
  <path d="m24 23v6h6l-6 10v-6h-6l6-10z" style="fill-rule:nonzero;fill:#ffb700"/>
  <defs>
   <linearGradient id="_Linear1" x2="1" gradientTransform="matrix(1.46775e-15,-23.9702,23.9702,1.46775e-15,24,42.9913)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#00328f" offset="0"/>
-   <stop style="stop-color:#0078ff" offset="1"/>
+   <stop style="stop-color:#8f3b00" offset="0"/>
+   <stop style="stop-color:#ff6900" offset="1"/>
   </linearGradient>
  </defs>
 </svg>

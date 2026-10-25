@@ -18,7 +18,7 @@
  </linearGradient>
  <linearGradient id="e" x2="1" gradientTransform="matrix(0 -12 12 0 467.071 533.798)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#08f" offset="0"/>
-  <stop stop-color="#02c3ff" offset="1"/>
+  <stop stop-color="#ff6a02" offset="1"/>
  </linearGradient>
  <g transform="matrix(.71859484 0 0 .700658 -311.27546 -342.41163)">
   <circle cx="481.696" cy="521.923" r="9.125" fill="url(#a)"/>

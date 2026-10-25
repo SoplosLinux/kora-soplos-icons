@@ -8,8 +8,8 @@
   <stop stop-color="#f9f9f9" stop-opacity=".04" offset="1"/>
  </radialGradient>
  <linearGradient id="c" x2="1" gradientTransform="matrix(.0194763 -33.9208 33.9208 .0194763 1091.25 44.9408)" gradientUnits="userSpaceOnUse">
-  <stop stop-color="#0040ba" offset="0"/>
-  <stop stop-color="#0086d4" offset="1"/>
+  <stop stop-color="#ba4d00" offset="0"/>
+  <stop stop-color="#d45700" offset="1"/>
  </linearGradient>
  <linearGradient id="d" x2="1" gradientTransform="matrix(-.135361 -33.6648 33.6648 -.135361 1072.32 40.0824)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#999" offset="0"/>

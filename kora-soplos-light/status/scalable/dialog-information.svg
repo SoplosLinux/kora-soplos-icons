@@ -38,11 +38,11 @@
        inkscape:collect="always"
        id="linearGradient4154">
       <stop
-         style="stop-color:#0066ff;stop-opacity:1;"
+         style="stop-color:#ff6900;stop-opacity:1;"
          offset="0"
          id="stop4156" />
       <stop
-         style="stop-color:#5f8dd3;stop-opacity:1"
+         style="stop-color:#d38f5f;stop-opacity:1"
          offset="1"
          id="stop4158" />
     </linearGradient>
@@ -109,7 +109,7 @@
      id="layer1"
      transform="translate(0,-1004.3622)">
     <circle
-       style="opacity:1;fill:#0044aa;fill-opacity:1"
+       style="opacity:1;fill:#aa4600;fill-opacity:1"
        id="path4136-1"
        cx="-1028.7955"
        cy="-42.269115"

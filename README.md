@@ -30,14 +30,17 @@ The previews show a sample of the apps, folders, devices and file types. They ar
 - Symbolic icons that follow the color scheme of the desktop.
 - Works with GNOME, KDE Plasma, Xfce and any desktop that follows the freedesktop icon theme specification.
 
-## New in version 1.0.0
+## New in version 1.0.0-1
 
 - First release of the Soplos variants of Kora.
 - Accent color changed from Kora blue to Soplos orange (`#ff7d2e`); secondary colors taken from the Soplos web palette.
 - Orange folder set.
+- The cyan gradient of Kora app icons and the blue of the system icons (status, session and power icons, and the apps that belong to the system) are now orange. Weather, Bluetooth, disk quota and the logos of third-party apps and distributions keep their colors.
 - Soplos distributor logo (`distributor-logo-soplos`, `start-here-soplos`).
 - Soplos Ghostty icon (`com.mitchellh.ghostty`, `ghostty`).
-- Light variant with dark symbolic icons.
+- Light variant with dark symbolic icons and dark panel icons.
+- Debian package `kora-soplos-icons`, architecture `all`, for Boro, Tyson and Tyron.
+- Icon files with invalid names inherited from Kora are fixed or removed.
 
 ## Installation
 
