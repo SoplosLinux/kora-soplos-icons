@@ -4,6 +4,10 @@ All notable changes to Kora Soplos Icons are documented in this file.
 
 ## [1.0.0-3] - 2026-10-25
 
+### Added
+
+- README: installation instructions for the `.deb` package, which is published in the Releases of the repository. It explains how to download it, how to install it with `apt` on any Debian based distribution, how to select the theme in Plasma, GNOME and Xfce, and how to remove it.
+
 ### Changed
 
 - The session and power icons (`system-shutdown`, `system-reboot`, `system-suspend`, `system-hibernate`, `system-lock-screen`, `system-log-out` and `system-switch-user`) have a new circle behind the symbol, so the orange symbol is clearly visible at panel size, for example in the login and lock screens of Plasma. In the dark theme the circle is charcoal (`#1b1b1e` to `#3a3a40`) with a symbol from `#ff7d2e` to `#ffb070`; in the light theme it is light gray (`#d4d4d9` to `#f2f2f4`) with a symbol from `#d9600f` to `#ff7d2e`.

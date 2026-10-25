@@ -32,6 +32,7 @@ The previews show a sample of the apps, folders, devices and file types. They ar
 
 ## New in version 1.0.0-3
 
+- Installation instructions for the `.deb` package of the Releases, on any Debian based distribution.
 - The session and power icons have a new circle, charcoal in the dark theme and light gray in the light theme, so the orange symbol is clearly visible at panel size.
 
 ## New in version 1.0.0-2
@@ -51,6 +52,25 @@ The previews show a sample of the apps, folders, devices and file types. They ar
 - Icon files with invalid names inherited from Kora are fixed or removed.
 
 ## Installation
+
+### Debian package (Debian, Ubuntu and derivatives)
+
+The `.deb` package of every version is published in the [Releases](https://github.com/SoplosLinux/kora-soplos-icons/releases) of this repository. It installs both themes in `/usr/share/icons` and works on any Debian based distribution, such as Soplos Linux Boro, Tyson and Tyron, Debian, Ubuntu or Linux Mint.
+
+1. Download the latest `kora-soplos-icons_<version>_all.deb` from the Releases page.
+2. Install it with `apt`, which also installs the dependencies (`hicolor-icon-theme`):
+
+       sudo apt install ./kora-soplos-icons_<version>_all.deb
+
+   Replace `<version>` with the version you downloaded, for example `1.0.0-3`. Run the command in the folder where you saved the file.
+3. Select the theme in the settings of your desktop: Kora Soplos Dark or Kora Soplos Light.
+   - KDE Plasma: System Settings, Appearance, Icons.
+   - GNOME: GNOME Tweaks, Appearance, Icons.
+   - Xfce: Settings, Appearance, Icons.
+
+The icon caches are generated when the package is installed, so there is nothing else to do. To remove the themes, run `sudo apt remove kora-soplos-icons`.
+
+### Manual installation
 
 The themes are meant to be installed in `/usr/share/icons`, one directory per theme. After copying them, refresh the icon cache:
 
