@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <filter id="soplos-launcher-64px-a" width="127.6%" height="127.6%" x="-13.8%" y="-13.8%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1" />
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1.5" />
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1" />
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" />
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <!-- Soplos orange circular base -->
+    <linearGradient id="soplos-bg-orange" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FF8C00" />
+      <stop offset="100%" stop-color="#E65100" />
+    </linearGradient>
+
+    <!-- Top diamond: pure white to cream -->
+    <linearGradient id="soplos-top" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="100%" stop-color="#FFF3E0" />
+    </linearGradient>
+
+    <!-- Left diamond: bright yellow -->
+    <linearGradient id="soplos-left" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFEA00" />
+      <stop offset="100%" stop-color="#FFD600" />
+    </linearGradient>
+
+    <!-- Right diamond: golden amber -->
+    <linearGradient id="soplos-right" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFC107" />
+      <stop offset="100%" stop-color="#FFB300" />
+    </linearGradient>
+
+    <!-- Bottom diamond: coral to deep red -->
+    <linearGradient id="soplos-bottom" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#D50000" />
+      <stop offset="100%" stop-color="#9A0007" />
+    </linearGradient>
+  </defs>
+
+  <g fill="none" fill-rule="evenodd" filter="url(#soplos-launcher-64px-a)" transform="translate(3 3)">
+    <!-- Orange background circle -->
+    <path fill="url(#soplos-bg-orange)" d="M0,29 C0,12.9837143 12.9837143,0 29,0 C45.0162857,0 58,12.9837143 58,29 C58,45.0162857 45.0162857,58 29,58 C12.9837143,58 0,45.0162857 0,29 Z" />
+
+    <!-- Central four-piece diamond -->
+    <g transform="translate(10 10)">
+      <rect width="11" height="11" x="13.46" y="2.5" fill="url(#soplos-top)" rx="2" transform="rotate(-45 18.96 8)" />
+      <rect width="11" height="11" x="2.5" y="13.46" fill="url(#soplos-left)" rx="2" transform="rotate(-45 8 18.96)" />
+      <rect width="11" height="11" x="24.42" y="13.46" fill="url(#soplos-right)" rx="2" transform="rotate(-45 29.92 18.96)" />
+      <rect width="11" height="11" x="13.46" y="24.42" fill="url(#soplos-bottom)" rx="2" transform="rotate(-45 18.96 29.92)" />
+    </g>
+  </g>
+</svg>
