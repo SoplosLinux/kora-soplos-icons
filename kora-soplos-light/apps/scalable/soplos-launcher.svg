@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="3" y1="3" x2="61" y2="61" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff8c00"/>
+      <stop offset="1" stop-color="#e65100"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="18.734" y1="29.573" x2="29.847" y2="18.688" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#fff3e0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="18.574" y1="45.072" x2="29.687" y2="34.186" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffea00"/>
+      <stop offset="1" stop-color="#ffd600"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="34.233" y1="29.734" x2="45.346" y2="18.848" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffc107"/>
+      <stop offset="1" stop-color="#ffb300"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="34.073" y1="45.232" x2="45.186" y2="34.347" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d50000"/>
+      <stop offset="1" stop-color="#9a0007"/>
+    </linearGradient>
+  </defs>
+  <title>soplos-launcher.svg</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <g>
+      <path d="M3 32 C3 15.984 15.984 3 32 3 C48.016 3 61 15.984 61 32 C61 48.016 48.016 61 32 61 C15.984 61 3 48.016 3 32 Z" fill="url(#linear-gradient-1)" fill-rule="evenodd"/>
+      <g>
+        <path d="M18.755 27.573 L18.827 20.574 C18.839 19.469 19.743 18.583 20.848 18.594 L27.847 18.667 C28.952 18.678 29.838 19.583 29.827 20.687 L29.754 27.687 C29.743 28.792 28.838 29.678 27.734 29.666 L20.734 29.594 C19.629 29.582 18.743 28.678 18.755 27.573 Z" fill="url(#linear-gradient-2)" fill-rule="evenodd"/>
+        <path d="M18.594 43.072 L18.667 36.073 C18.678 34.968 19.583 34.082 20.687 34.093 L27.687 34.166 C28.792 34.177 29.678 35.082 29.666 36.186 L29.594 43.186 C29.582 44.291 28.678 45.177 27.573 45.165 L20.574 45.093 C19.469 45.081 18.583 44.177 18.594 43.072 Z" fill="url(#linear-gradient-3)" fill-rule="evenodd"/>
+        <path d="M34.254 27.734 L34.326 20.734 C34.338 19.629 35.242 18.743 36.347 18.755 L43.346 18.827 C44.451 18.839 45.337 19.743 45.326 20.848 L45.253 27.847 C45.242 28.952 44.337 29.838 43.233 29.827 L36.233 29.754 C35.128 29.743 34.242 28.838 34.254 27.734 Z" fill="url(#linear-gradient-4)" fill-rule="evenodd"/>
+        <path d="M34.093 43.233 L34.166 36.233 C34.177 35.128 35.082 34.242 36.186 34.254 L43.186 34.326 C44.291 34.338 45.177 35.242 45.165 36.347 L45.093 43.346 C45.081 44.451 44.177 45.337 43.072 45.326 L36.073 45.253 C34.968 45.242 34.082 44.337 34.093 43.233 Z" fill="url(#linear-gradient-5)" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>
