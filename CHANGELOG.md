@@ -13,9 +13,11 @@ All notable changes to Kora Soplos Icons are documented in this file.
 
 - Changed icon `utilities-system-monitor` from green to orange soplos
 - Changed icon `telegram` from orange soplos to blue original telegram
-- Changeg icon `distributor-logo` with the official Soplos logo
-- Changeg icon `distributor-logo-soplos` with the official Soplos logo
-- Changeg icon `start-here-soplos` with the official Soplos logo
+- Changed icon `distributor-logo` with the official Soplos logo
+- Changed icon `distributor-logo-soplos` with the official Soplos logo
+- Changed icon `start-here-soplos` with the official Soplos logo
+- Changed the mimetypes icons for compressed files to orange soplos
+
 
 ## [1.0.0-3] - 2026-10-25
 
