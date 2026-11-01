@@ -2,7 +2,7 @@
 
 All notable changes to Kora Soplos Icons are documented in this file.
 
-## [1.0.0-4] - not yet published
+## [1.0.0-4] - 2026-11-01
 
 ### Added
 
