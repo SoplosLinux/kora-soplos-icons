@@ -1,6 +1,6 @@
 # Kora Soplos Icons
 
-![Version](https://img.shields.io/badge/version-1.0.0--3-blue)
+![Version](https://img.shields.io/badge/version-1.0.0--4-blue)
 ![License](https://img.shields.io/badge/license-GPL--3.0-green)
 ![Platform](https://img.shields.io/badge/platform-Linux-lightgrey)
 ![Format](https://img.shields.io/badge/icons-SVG-orange)
@@ -35,6 +35,14 @@ The previews show a sample of the apps, folders, devices and file types. They ar
 - Scalable SVG icons, with `@2` variants for HiDPI screens.
 - Symbolic icons that follow the color scheme of the desktop.
 - Works with GNOME, KDE Plasma, Xfce and any desktop that follows the freedesktop icon theme specification.
+
+## New in version 1.0.0-4
+
+- New icons: the `control-centre` panel icon and the `soplos-launcher` app icon.
+- The logos `distributor-logo`, `distributor-logo-soplos` and `start-here-soplos` are now the official Soplos logo.
+- The icons of the system monitor (`utilities-system-monitor`) and of GNOME Boxes (`gnome-boxes`) are now Soplos orange.
+- The icons of the compressed files are now Soplos orange.
+- The Telegram icon goes back to the original blue one.
 
 ## New in version 1.0.0-3
 
