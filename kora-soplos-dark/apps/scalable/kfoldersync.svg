@@ -4,7 +4,7 @@
   <stop stop-color="#12c5ff" offset="1"/>
  </linearGradient>
  <linearGradient id="b" x2="1" gradientTransform="matrix(0 -17.8231 17.8231 0 512.323 39.432)" gradientUnits="userSpaceOnUse">
-  <stop stop-color="#ff7d2e" offset="0"/>
+  <stop stop-color="#13bee3" offset="0"/>
   <stop stop-color="#7ee3ff" offset="1"/>
  </linearGradient>
  <path d="m46.798 12.466c0-1.327-.526-2.598-1.464-3.536s-2.21-1.464-3.536-1.464h-35.596c-1.326 0-2.598.526-3.536 1.464s-1.464 2.209-1.464 3.536v23.073c0 1.326.526 2.597 1.464 3.535s2.21 1.465 3.536 1.465h35.596c1.326 0 2.598-.527 3.536-1.465s1.464-2.209 1.464-3.535z" fill="#0083d5"/>

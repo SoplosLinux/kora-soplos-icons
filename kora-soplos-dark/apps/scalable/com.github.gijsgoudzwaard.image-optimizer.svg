@@ -8,8 +8,8 @@
   <stop stop-color="#b92735" offset="1"/>
  </linearGradient>
  <linearGradient id="c" x2="1" gradientTransform="matrix(0 -17.1017 17.1017 0 492.529 44.3511)" gradientUnits="userSpaceOnUse">
-  <stop stop-color="#a04a12" offset="0"/>
-  <stop stop-color="#ff7d2e" offset="1"/>
+  <stop stop-color="#006783" offset="0"/>
+  <stop stop-color="#13bee3" offset="1"/>
  </linearGradient>
  <path d="m36 29c-3.866 0-7 3.134-7 7s3.134 7 7 7c3.175 0 5.862-2.103 6.719-5h-2.156c-.775 1.76-2.517 3-4.563 3-2.761 0-5-2.239-5-5s2.239-5 5-5c1.382 0 2.616.575 3.516 1.484l-2.516 2.516h6v-6l-2.053 2.053c-1.268-1.265-3.013-2.053-4.947-2.053z" fill="#fff" fill-rule="nonzero"/>
  <path d="m39.44 2.332c3.438 0 6.228 2.79 6.228 6.228v22.879c-.533.332-1.161.523-1.835.523h-39.666c-.674 0-1.302-.191-1.835-.523v-22.879c0-3.438 2.79-6.228 6.228-6.228z" fill="url(#a)"/>

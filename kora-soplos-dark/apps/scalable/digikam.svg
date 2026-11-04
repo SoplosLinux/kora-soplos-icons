@@ -16,8 +16,8 @@
   <stop stop-color="#3b3b3b" offset="1"/>
  </linearGradient>
  <linearGradient id="e" x2="1" gradientTransform="matrix(0 -8.67211 8.67211 0 526.58 40.4848)" gradientUnits="userSpaceOnUse">
-  <stop stop-color="#a04a12" offset="0"/>
-  <stop stop-color="#ff7d2e" offset="1"/>
+  <stop stop-color="#006783" offset="0"/>
+  <stop stop-color="#13bee3" offset="1"/>
  </linearGradient>
  <path d="m39.44 2.332c3.438 0 6.228 2.79 6.228 6.228v30.88c0 3.438-2.79 6.228-6.228 6.228h-30.88c-3.438 0-6.228-2.79-6.228-6.228v-30.88c0-3.438 2.79-6.228 6.228-6.228z" fill="url(#a)"/>
  <path d="m45.668 30.672v8.768c0 3.438-2.79 6.228-6.228 6.228h-30.88c-3.438 0-6.228-2.79-6.228-6.228v-3.111l7.273-2.104 3.058 1.958 7.054-2.22 8.098-3.291z" fill="url(#b)"/>

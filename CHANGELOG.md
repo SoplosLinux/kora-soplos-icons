@@ -2,6 +2,16 @@
 
 All notable changes to Kora Soplos Icons are documented in this file.
 
+## [1.0.0-5] - 2026-11-04
+
+### Fixed
+
+- Folder, home and trash icons (`folder`, `folder-documents`, `folder-music`, `folder-pictures`, `folder-downloads`, `user-home`, `user-trash` and others) were shown in black at 16 px, for example in the lists of Dolphin. The 29 links without the `-symbolic` suffix in `places/symbolic` are removed in both themes, so the orange icons of `places/scalable` are used at every size. The `-symbolic` icons stay.
+
+### Changed
+
+- Restored the original Kora icon of 98 third-party apps that had been recolored to orange, in both themes: Microsoft Edge (stable, beta and dev), LibreWolf, Zoom, Messenger, Joplin, Mumble, OpenShot, digiKam, Heroic, LocalSend, Mailspring, Insync, Konqueror and others. System icons and folders stay orange.
+
 ## [1.0.0-4] - 2026-11-01
 
 ### Added

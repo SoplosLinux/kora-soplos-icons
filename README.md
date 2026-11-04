@@ -1,6 +1,6 @@
 # Kora Soplos Icons
 
-![Version](https://img.shields.io/badge/version-1.0.0--4-blue)
+![Version](https://img.shields.io/badge/version-1.0.0--5-blue)
 ![License](https://img.shields.io/badge/license-GPL--3.0-green)
 ![Platform](https://img.shields.io/badge/platform-Linux-lightgrey)
 ![Format](https://img.shields.io/badge/icons-SVG-orange)
@@ -35,6 +35,11 @@ The previews show a sample of the apps, folders, devices and file types. They ar
 - Scalable SVG icons, with `@2` variants for HiDPI screens.
 - Symbolic icons that follow the color scheme of the desktop.
 - Works with GNOME, KDE Plasma, Xfce and any desktop that follows the freedesktop icon theme specification.
+
+## New in version 1.0.0-5
+
+- The folder icons, the home folder and the trash no longer turn black in small lists, as in Dolphin: the monochrome copies that shared their names are gone, and the orange icons are used at every size.
+- The icons of 98 third-party apps, among them Microsoft Edge, LibreWolf, Zoom, Messenger, Joplin, Mumble, OpenShot and digiKam, go back to the original Kora versions instead of the orange recolor.
 
 ## New in version 1.0.0-4
 

@@ -4,8 +4,8 @@
   <stop stop-color="#11608b" offset="1"/>
  </linearGradient>
  <linearGradient id="b" x2="1" gradientTransform="matrix(1.58189 -46.4046 46.4046 1.58189 21.5332 46.4046)" gradientUnits="userSpaceOnUse">
-  <stop stop-color="#ff7d2e" offset="0"/>
-  <stop stop-color="#a04a12" offset="1"/>
+  <stop stop-color="#13bee3" offset="0"/>
+  <stop stop-color="#006783" offset="1"/>
  </linearGradient>
  <radialGradient id="c" cx="0" cy="0" r="1" gradientTransform="matrix(54.0828 12.7577 -8.51499 36.097 19.0144 12.3374)" gradientUnits="userSpaceOnUse">
   <stop stop-color="#35c1f1" offset="0"/>

@@ -8,8 +8,8 @@
   <stop stop-color="#4f4f4f" offset="1"/>
  </linearGradient>
  <linearGradient id="c">
-  <stop stop-color="#a04a12" offset="0"/>
-  <stop stop-color="#ff7d2e" offset="1"/>
+  <stop stop-color="#006783" offset="0"/>
+  <stop stop-color="#13bee3" offset="1"/>
  </linearGradient>
  <linearGradient id="d" x2="1" gradientTransform="matrix(18.6551 0 0 -18.6551 -33 -24)" gradientUnits="userSpaceOnUse" xlink:href="#c"/>
  <linearGradient id="e" x2="1" gradientTransform="matrix(.223325 -35.9553 35.9553 .223325 21.3797 41.5458)" gradientUnits="userSpaceOnUse" xlink:href="#c"/>

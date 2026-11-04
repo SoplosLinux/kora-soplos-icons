@@ -1,7 +1,7 @@
 <svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
  <linearGradient id="a" x2="1" gradientTransform="matrix(0 -45.5281 45.5281 0 249.091 46.764)" gradientUnits="userSpaceOnUse">
-  <stop stop-color="#a04a12" offset="0"/>
-  <stop stop-color="#ff9a4d" offset="1"/>
+  <stop stop-color="#006783" offset="0"/>
+  <stop stop-color="#20ccff" offset="1"/>
  </linearGradient>
  <circle cx="24" cy="24" r="22.764" fill="url(#a)"/>
  <g transform="matrix(1.29352 0 0 1.29352 -7.04455 -7.04455)" fill-rule="nonzero">
