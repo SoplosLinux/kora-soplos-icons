@@ -2,6 +2,12 @@
 
 All notable changes to Kora Soplos Icons are documented in this file.
 
+## [1.0.0-6] - 2026-11-05
+
+### Added
+
+- Icon `application-x-soplos-theme` in both themes, for the `.sth` theme files of Soplos Theme Manager.
+
 ## [1.0.0-5] - 2026-11-04
 
 ### Fixed

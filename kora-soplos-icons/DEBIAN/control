@@ -1,5 +1,5 @@
 Package: kora-soplos-icons
-Version: 1.0.0-5
+Version: 1.0.0-6
 Section: x11
 Priority: optional
 Architecture: all
@@ -14,4 +14,4 @@ Description: Kora Soplos icon themes (dark and light) for Soplos Linux.
  .
  Based on Kora (https://github.com/bikass/kora). Soplos modifications by
  Sergi Perich and Simnandez.
- Build date: 2026-11-04
+ Build date: 2026-11-05
