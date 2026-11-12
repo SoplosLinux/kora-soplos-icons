@@ -1,6 +1,6 @@
 # Kora Soplos Icons
 
-![Version](https://img.shields.io/badge/version-1.0.0--6-blue)
+![Version](https://img.shields.io/badge/version-1.0.0--7-blue)
 ![License](https://img.shields.io/badge/license-GPL--3.0-green)
 ![Platform](https://img.shields.io/badge/platform-Linux-lightgrey)
 ![Format](https://img.shields.io/badge/icons-SVG-orange)
@@ -35,6 +35,10 @@ The previews show a sample of the apps, folders, devices and file types. They ar
 - Scalable SVG icons, with `@2` variants for HiDPI screens.
 - Symbolic icons that follow the color scheme of the desktop.
 - Works with GNOME, KDE Plasma, Xfce and any desktop that follows the freedesktop icon theme specification.
+
+## New in version 1.0.0-7
+
+- The home icon is no longer a gray monochrome house in the sidebar of file managers such as Thunar: it is the orange home folder, like the other places, in both themes.
 
 ## New in version 1.0.0-6
 

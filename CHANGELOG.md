@@ -2,6 +2,12 @@
 
 All notable changes to Kora Soplos Icons are documented in this file.
 
+## [1.0.0-7] - 2026-11-12
+
+### Fixed
+
+- The home icon was a gray monochrome house in the sidebar of file managers such as Thunar, while the other places were orange. `user-home-symbolic` and `go-home` (16 px) now use the orange home folder, in both themes.
+
 ## [1.0.0-6] - 2026-11-05
 
 ### Added
