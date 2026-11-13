@@ -2,6 +2,12 @@
 
 All notable changes to Kora Soplos Icons are documented in this file.
 
+## [1.0.0-8] - Not yet published
+
+### Fixed
+
+- `user-trash-symbolic` and `user-trash-full-symbolic` now are in color
+
 ## [1.0.0-7] - 2026-11-12
 
 ### Fixed
