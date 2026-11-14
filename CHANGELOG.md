@@ -2,11 +2,15 @@
 
 All notable changes to Kora Soplos Icons are documented in this file.
 
-## [1.0.0-8] - Not yet published
+## [1.0.0-8] - 2026-11-14
 
 ### Fixed
 
 - `user-trash-symbolic` and `user-trash-full-symbolic` now are in color
+- The other symbolic place icons that sidebars use were gray glyphs beside the orange home and the trash: the folders (documents, downloads, music, pictures, public, templates, videos, remote, recent and the plain folder), the desktop, recent files, bookmarks, computer, the drives, the removable media and the network. They now use the colored icons, in both themes, also with the `xsi-` names. The symbolic icons of buttons (new folder, search, visiting) stay monochrome.
+- Places, devices and applications at 16 px had a gray copy in `actions` with the same name, which can be picked instead of the colored one: trash, favorites, open folder, saved search, sync, shared folders, mail, KDE Connect, the settings icons (`preferences-*`), users, software install and upgrade, web browser, address book, Xfburn, Snap and others. They are now links to the colored ones. The toolbar buttons (help, search, lock...) stay monochrome.
+- `drive-harddisk`, `printer`, `audio-speakers` and `file-manager` had a tray version in `panel` at 16, 22 and 24 px that sidebars and docks could pick. They now use the colored ones.
+- The Other button of the login screen (Plasma Login Manager) was a white outline, because `system-user-prompt` and `system-user-list` only existed at 16 px. They now use the round `system-switch-user` of the other buttons (hibernate, sleep, restart, shut down).
 
 ## [1.0.0-7] - 2026-11-12
 
