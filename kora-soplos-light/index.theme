@@ -2,8 +2,6 @@
 Name=Kora Soplos Light
 Comment=Kora Soplos Light icon theme for GNU/Linux
 
-Inherits=breeze,hicolor
-
 Example=folder
 
 FollowsColorScheme=true

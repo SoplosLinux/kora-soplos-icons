@@ -1,6 +1,6 @@
 # Kora Soplos Icons
 
-![Version](https://img.shields.io/badge/version-1.0.0--8-blue)
+![Version](https://img.shields.io/badge/version-1.0.1-blue)
 ![License](https://img.shields.io/badge/license-GPL--3.0-green)
 ![Platform](https://img.shields.io/badge/platform-Linux-lightgrey)
 ![Format](https://img.shields.io/badge/icons-SVG-orange)
@@ -12,8 +12,8 @@ Two variants are provided:
 
 | Theme | Folder | Inherits |
 |-------|--------|----------|
-| Kora Soplos Dark | `kora-soplos-dark` | `breeze-dark,breeze,hicolor` |
-| Kora Soplos Light | `kora-soplos-light` | `breeze,hicolor` |
+| Kora Soplos Dark | `kora-soplos-dark` | nothing |
+| Kora Soplos Light | `kora-soplos-light` | nothing |
 
 Unlike Kora, which ships a single variant, these themes provide a dark and a light version. The dark variant uses light symbols (`#dfdfdf`), the light variant uses dark symbols (`#252527`).
 
@@ -35,6 +35,20 @@ The previews show a sample of the apps, folders, devices and file types. They ar
 - Scalable SVG icons, with `@2` variants for HiDPI screens.
 - Symbolic icons that follow the color scheme of the desktop.
 - Works with GNOME, KDE Plasma, Xfce and any desktop that follows the freedesktop icon theme specification.
+
+## New in version 1.0.1
+
+- The README says what the themes inherit (nothing) and that the package depends on no other package. The table of the themes still showed the Breeze themes of 1.0.0-8.
+
+## New in version 1.0.0-9
+
+- The themes no longer depend on the icons of another desktop: they inherit nothing, and the package depends on and recommends no other package.
+
+## New in version 1.0.0-8
+
+- The trash and the other symbolic place icons of the sidebars (folders, desktop, recent files, bookmarks, computer, drives, removable media and network) are in color, in both themes.
+- Places, devices and applications at 16 px, and the drive, printer, speaker and file manager icons of the panel, use the colored icons instead of gray copies.
+- The Other button of the login screen (Plasma Login Manager) uses the round switch user icon of the other buttons.
 
 ## New in version 1.0.0-7
 
@@ -86,7 +100,7 @@ The previews show a sample of the apps, folders, devices and file types. They ar
 The `.deb` package of every version is published in the [Releases](https://github.com/SoplosLinux/kora-soplos-icons/releases) of this repository. It installs both themes in `/usr/share/icons` and works on any Debian based distribution, such as Soplos Linux Boro, Tyson and Tyron, Debian, Ubuntu or Linux Mint.
 
 1. Download the latest `kora-soplos-icons_<version>_all.deb` from the Releases page.
-2. Install it with `apt`, which also installs the dependencies (`hicolor-icon-theme`):
+2. Install it with `apt` (the package depends on no other package):
 
        sudo apt install ./kora-soplos-icons_<version>_all.deb
 

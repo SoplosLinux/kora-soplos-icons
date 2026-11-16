@@ -2,8 +2,6 @@
 Name=Kora Soplos Dark
 Comment=Kora Soplos Dark icon theme for GNU/Linux
 
-Inherits=breeze-dark,breeze,hicolor
-
 Example=folder
 
 FollowsColorScheme=true

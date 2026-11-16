@@ -2,6 +2,18 @@
 
 All notable changes to Kora Soplos Icons are documented in this file.
 
+## [1.0.1] - 2026-11-16
+
+### Fixed
+
+- The README still showed the old `Inherits` of the themes, with Breeze, and said that `apt` installs `hicolor-icon-theme` as a dependency. It now shows that the themes inherit nothing and that the package depends on no other package. The README has the sections of 1.0.0-8 and 1.0.0-9, which were missing, and the version badge and the build date of the package are updated.
+
+## [1.0.0-9] - 2026-11-16
+
+### Changed
+
+- The themes no longer depend on the icons of another desktop. `Inherits` was `breeze,hicolor` (and `breeze-dark,breeze,hicolor` in the dark theme). Now Kora Soplos Light and Dark inherit nothing, and the package depends on and recommends no other package. A theme saved with Soplos Theme Manager no longer carries the Breeze icons inside it.
+
 ## [1.0.0-8] - 2026-11-14
 
 ### Fixed
